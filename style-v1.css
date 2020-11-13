@@ -1227,7 +1227,7 @@ font-weight: normal;
 
 .home-container {
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 100%;
     border: 1px solid #203864;
     padding: 0px;
 }
